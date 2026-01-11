@@ -7,8 +7,8 @@
 ###Sponsor###
 
 ###Olinl Blog###
-/ https://www.2x.nz/ 302
-
-/* https://www.2x.nz/:splat 302
+/ https://blog.olinl.com/ 302
+/up https://status.olinl.com/ 302
+/* https://blog.olinl.com/:splat 302
 
 ###Olinl Blog###
