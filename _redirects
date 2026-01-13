@@ -9,6 +9,14 @@
 ###Olinl Blog###
 / https://blog.olinl.com/ 302
 /up https://status.olinl.com/status/external 302
-/* https://blog.olinl.com/:splat 302
+/xr http://blog.olinl.com/self/random.html 302
 
+
+
+
+
+
+
+
+/* https://blog.olinl.com/:splat 302
 ###Olinl Blog###
