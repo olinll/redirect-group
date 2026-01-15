@@ -11,7 +11,7 @@
 /sta https://status.olinl.com/status/main 302
 /xr https://blog.olinl.com/self/random.html 302
 
-/fn http://fnnas.jianglin.cc:64566/ 302
+#/fn http://fnnas.jianglin.cc:64566/ 302
 
 
 
